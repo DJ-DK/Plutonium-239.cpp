@@ -6,4 +6,4 @@
 > DK
 
 ## LICENCE
-> (MIT)[LICENCE]
+> MIT[LICENCE]
