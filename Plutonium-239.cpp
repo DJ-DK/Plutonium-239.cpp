@@ -4,7 +4,7 @@
  * 
  * DESCRIPTION: Plutonium-239 is a hardcore
  *              malicious keylogger developed
- *              by Dwijottam Dutta
+ *              by DJ & DK
  * 
  * AUTHOR: DJ
  *         DK
